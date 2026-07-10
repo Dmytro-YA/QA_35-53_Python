@@ -65,8 +65,12 @@ reversed_string = my_string[::-1]
 print(reversed_string)
 
 
+raw = " Today is a good day "
+raw = raw.strip().replace(' ','*')
+print(raw)
 
-
-
+date_str = "09,07,2026"
+date_list = date_str.split(',')
+print(f"Год: {date_list[2]}, Месяц: {date_list[1]}, День: {date_list[0]}")
 
 

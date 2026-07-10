@@ -52,3 +52,5 @@ def print_words_reverse_in_column():
 
 s = input()
 print_words_reverse_in_column()
+
+

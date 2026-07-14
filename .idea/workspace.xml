@@ -5,9 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3b504a37-618b-4ee9-ad62-d8a95d2bae11" name="Changes" comment="homework1">
+      <change afterPath="$PROJECT_DIR$/Lesson3_set_dict/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson2_collections/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson2_collections/collections.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson2_collections/dict.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson2_collections/tuple.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson1_remember/Lesson_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson1_remember/Lesson_1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson1_remember/hw_lesson1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson1_remember/hw_lesson1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson2_collections/hw_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2_collections/hw_2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,9 +55,13 @@
   &quot;keyToString&quot;: {
     &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
     &quot;Python.Lesson_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.collections.executor&quot;: &quot;Run&quot;,
+    &quot;Python.dict.executor&quot;: &quot;Run&quot;,
     &quot;Python.elif.executor&quot;: &quot;Run&quot;,
+    &quot;Python.hw_2.executor&quot;: &quot;Run&quot;,
     &quot;Python.loop.executor&quot;: &quot;Run&quot;,
     &quot;Python.string_methods.executor&quot;: &quot;Run&quot;,
+    &quot;Python.tuple.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
@@ -88,7 +96,9 @@
       <workItem from="1783341536502" duration="19000" />
       <workItem from="1783341578791" duration="47000" />
       <workItem from="1783341645200" duration="2275000" />
-      <workItem from="1783663551905" duration="2072000" />
+      <workItem from="1783663551905" duration="10249000" />
+      <workItem from="1783855424960" duration="3738000" />
+      <workItem from="1784041474466" duration="2256000" />
     </task>
     <task id="LOCAL-00001" summary="homework1">
       <option name="closed" value="true" />
@@ -98,7 +108,23 @@
       <option name="project" value="LOCAL" />
       <updated>1783341674793</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="homework1">
+      <option name="closed" value="true" />
+      <created>1783665807703</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1783665807703</updated>
+    </task>
+    <task id="LOCAL-00003" summary="homework1">
+      <option name="closed" value="true" />
+      <created>1783857958986</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1783857958986</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -110,8 +136,12 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Python_35$loop.coverage" NAME="loop Coverage Results" MODIFIED="1783068628752" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson1_remember" />
+    <SUITE FILE_PATH="coverage/QA_35_53_Python$tuple.coverage" NAME="tuple Coverage Results" MODIFIED="1783671547437" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson2_collections" />
     <SUITE FILE_PATH="coverage/Python_35$string_methods.coverage" NAME="string_methods Coverage Results" MODIFIED="1783065943397" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson1_remember" />
+    <SUITE FILE_PATH="coverage/QA_35_53_Python$collections.coverage" NAME="collections Coverage Results" MODIFIED="1783667822460" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson2_collections" />
     <SUITE FILE_PATH="coverage/Python_35$Lesson_1.coverage" NAME="Lesson_1 Coverage Results" MODIFIED="1783063579466" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson1_remember" />
+    <SUITE FILE_PATH="coverage/QA_35_53_Python$dict.coverage" NAME="dict Coverage Results" MODIFIED="1783673617211" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson2_collections" />
+    <SUITE FILE_PATH="coverage/QA_35_53_Python$hw_2.coverage" NAME="hw_2 Coverage Results" MODIFIED="1784043802597" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson2_collections" />
     <SUITE FILE_PATH="coverage/Python_35$elif.coverage" NAME="elif Coverage Results" MODIFIED="1783068379740" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson1_remember" />
     <SUITE FILE_PATH="coverage/QA_35_53_Python$Lesson_1.coverage" NAME="Lesson_1 Coverage Results" MODIFIED="1783614377410" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson1_remember" />
   </component>

@@ -23,6 +23,15 @@ print(is_valid_point((1,2)))
 
 #3
 def print_sublist_reverse(lst, start, finish):
+    if lst is None or not isinstance(lst, list) or len(lst) == 0:
+        print("Wrong args")
+        return
+    if not isinstance(start, int) or not isinstance(finish, int):
+        print("Wrong args")
+        return
+    if start < 0 or finish > len(lst) or start > finish:
+        print("Wrong args")
+        return
     reversed_sub = lst[start:finish+1][::-1]
     print(lst[0:start] + reversed_sub + lst[finish+1:len(lst)])
 

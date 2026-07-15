@@ -5,13 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3b504a37-618b-4ee9-ad62-d8a95d2bae11" name="Changes" comment="homework1">
-      <change afterPath="$PROJECT_DIR$/Lesson3_set_dict/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson2_collections/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson2_collections/collections.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson2_collections/dict.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson2_collections/tuple.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson3_functionPro/args.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson3_functionPro/filter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson3_functionPro/functionPRO.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson3_functionPro/hw3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson3_functionPro/kwargs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson3_functionPro/lambda.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson3_functionPro/map.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson3_functionPro/unpacking.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson2_collections/hw_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2_collections/hw_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson3_set_dict/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson3_functionPro/__init__.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,32 +54,40 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;Python.Lesson_1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.collections.executor&quot;: &quot;Run&quot;,
-    &quot;Python.dict.executor&quot;: &quot;Run&quot;,
-    &quot;Python.elif.executor&quot;: &quot;Run&quot;,
-    &quot;Python.hw_2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.loop.executor&quot;: &quot;Run&quot;,
-    &quot;Python.string_methods.executor&quot;: &quot;Run&quot;,
-    &quot;Python.tuple.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.Lesson_1.executor": "Run",
+    "Python.args.executor": "Run",
+    "Python.collections.executor": "Run",
+    "Python.dict.executor": "Run",
+    "Python.elif.executor": "Run",
+    "Python.filter.executor": "Run",
+    "Python.functionPRO.executor": "Run",
+    "Python.hw3.executor": "Run",
+    "Python.hw_2.executor": "Run",
+    "Python.kwargs.executor": "Run",
+    "Python.lambda.executor": "Run",
+    "Python.loop.executor": "Run",
+    "Python.map.executor": "Run",
+    "Python.string_methods.executor": "Run",
+    "Python.tuple.executor": "Run",
+    "Python.unpacking.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "main",
+    "junie.onboarding.icon.badge.shown": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "to.speed.mode.migration.done": "true",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -98,7 +109,7 @@
       <workItem from="1783341645200" duration="2275000" />
       <workItem from="1783663551905" duration="10249000" />
       <workItem from="1783855424960" duration="3738000" />
-      <workItem from="1784041474466" duration="2256000" />
+      <workItem from="1784041474466" duration="14798000" />
     </task>
     <task id="LOCAL-00001" summary="homework1">
       <option name="closed" value="true" />
@@ -124,7 +135,15 @@
       <option name="project" value="LOCAL" />
       <updated>1783857958986</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="homework1">
+      <option name="closed" value="true" />
+      <created>1784044661956</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1784044661956</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -135,14 +154,22 @@
     <option name="LAST_COMMIT_MESSAGE" value="homework1" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Python_35$loop.coverage" NAME="loop Coverage Results" MODIFIED="1783068628752" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson1_remember" />
     <SUITE FILE_PATH="coverage/QA_35_53_Python$tuple.coverage" NAME="tuple Coverage Results" MODIFIED="1783671547437" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson2_collections" />
-    <SUITE FILE_PATH="coverage/Python_35$string_methods.coverage" NAME="string_methods Coverage Results" MODIFIED="1783065943397" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson1_remember" />
+    <SUITE FILE_PATH="coverage/QA_35_53_Python$args.coverage" NAME="args Coverage Results" MODIFIED="1784048348313" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson3_functionPro" />
+    <SUITE FILE_PATH="coverage/QA_35_53_Python$lambda.coverage" NAME="lambda Coverage Results" MODIFIED="1784050746055" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson3_functionPro" />
     <SUITE FILE_PATH="coverage/QA_35_53_Python$collections.coverage" NAME="collections Coverage Results" MODIFIED="1783667822460" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson2_collections" />
     <SUITE FILE_PATH="coverage/Python_35$Lesson_1.coverage" NAME="Lesson_1 Coverage Results" MODIFIED="1783063579466" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson1_remember" />
     <SUITE FILE_PATH="coverage/QA_35_53_Python$dict.coverage" NAME="dict Coverage Results" MODIFIED="1783673617211" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson2_collections" />
+    <SUITE FILE_PATH="coverage/QA_35_53_Python$kwargs.coverage" NAME="kwargs Coverage Results" MODIFIED="1784049097577" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson3_functionPro" />
     <SUITE FILE_PATH="coverage/QA_35_53_Python$hw_2.coverage" NAME="hw_2 Coverage Results" MODIFIED="1784043802597" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson2_collections" />
+    <SUITE FILE_PATH="coverage/QA_35_53_Python$map.coverage" NAME="map Coverage Results" MODIFIED="1784051441306" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson3_functionPro" />
     <SUITE FILE_PATH="coverage/Python_35$elif.coverage" NAME="elif Coverage Results" MODIFIED="1783068379740" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson1_remember" />
+    <SUITE FILE_PATH="coverage/QA_35_53_Python$unpacking.coverage" NAME="unpacking Coverage Results" MODIFIED="1784050051350" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson3_functionPro" />
+    <SUITE FILE_PATH="coverage/QA_35_53_Python$filter.coverage" NAME="filter Coverage Results" MODIFIED="1784051751849" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson3_functionPro" />
+    <SUITE FILE_PATH="coverage/Python_35$loop.coverage" NAME="loop Coverage Results" MODIFIED="1783068628752" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson1_remember" />
+    <SUITE FILE_PATH="coverage/QA_35_53_Python$hw3.coverage" NAME="hw3 Coverage Results" MODIFIED="1784110743921" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson3_functionPro" />
+    <SUITE FILE_PATH="coverage/Python_35$string_methods.coverage" NAME="string_methods Coverage Results" MODIFIED="1783065943397" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson1_remember" />
+    <SUITE FILE_PATH="coverage/QA_35_53_Python$functionPRO.coverage" NAME="functionPRO Coverage Results" MODIFIED="1784046430134" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson3_functionPro" />
     <SUITE FILE_PATH="coverage/QA_35_53_Python$Lesson_1.coverage" NAME="Lesson_1 Coverage Results" MODIFIED="1783614377410" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson1_remember" />
   </component>
 </project>

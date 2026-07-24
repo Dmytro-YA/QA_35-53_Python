@@ -5,16 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3b504a37-618b-4ee9-ad62-d8a95d2bae11" name="Changes" comment="homework1">
-      <change afterPath="$PROJECT_DIR$/Lesson3_functionPro/args.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson3_functionPro/filter.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson3_functionPro/functionPRO.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson3_functionPro/hw3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson3_functionPro/kwargs.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson3_functionPro/lambda.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson3_functionPro/map.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson3_functionPro/unpacking.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson4_files/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson4_files/csv_files.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson4_files/file_read.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson4_files/file_write.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson4_files/hw4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson4_files/json.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson4_files/pathlib1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson4_files/student.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson4_files/users.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson5_exceptions/HW_5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson5_exceptions/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson5_exceptions/exceptions.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson3_set_dict/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson3_functionPro/__init__.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,19 +60,28 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.HW_5.executor": "Run",
     "Python.Lesson_1.executor": "Run",
     "Python.args.executor": "Run",
     "Python.collections.executor": "Run",
+    "Python.csv_files.executor": "Run",
     "Python.dict.executor": "Run",
     "Python.elif.executor": "Run",
+    "Python.exceptions.executor": "Run",
+    "Python.file_read.executor": "Run",
+    "Python.files.executor": "Run",
     "Python.filter.executor": "Run",
     "Python.functionPRO.executor": "Run",
     "Python.hw3.executor": "Run",
+    "Python.hw4.executor": "Run",
     "Python.hw_2.executor": "Run",
+    "Python.json.executor": "Run",
     "Python.kwargs.executor": "Run",
     "Python.lambda.executor": "Run",
     "Python.loop.executor": "Run",
     "Python.map.executor": "Run",
+    "Python.pathlib.executor": "Run",
+    "Python.pathlib1.executor": "Run",
     "Python.string_methods.executor": "Run",
     "Python.tuple.executor": "Run",
     "Python.unpacking.executor": "Run",
@@ -84,6 +96,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
     "to.speed.mode.migration.done": "true",
     "vue.rearranger.settings.migration": "true"
   }
@@ -109,7 +122,10 @@
       <workItem from="1783341645200" duration="2275000" />
       <workItem from="1783663551905" duration="10249000" />
       <workItem from="1783855424960" duration="3738000" />
-      <workItem from="1784041474466" duration="14798000" />
+      <workItem from="1784041474466" duration="14869000" />
+      <workItem from="1784268018414" duration="6427000" />
+      <workItem from="1784275311152" duration="4331000" />
+      <workItem from="1784646113438" duration="11542000" />
     </task>
     <task id="LOCAL-00001" summary="homework1">
       <option name="closed" value="true" />
@@ -143,7 +159,15 @@
       <option name="project" value="LOCAL" />
       <updated>1784044661956</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="homework1">
+      <option name="closed" value="true" />
+      <created>1784110755606</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1784110755606</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -154,22 +178,31 @@
     <option name="LAST_COMMIT_MESSAGE" value="homework1" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/QA_35_53_Python$tuple.coverage" NAME="tuple Coverage Results" MODIFIED="1783671547437" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson2_collections" />
     <SUITE FILE_PATH="coverage/QA_35_53_Python$args.coverage" NAME="args Coverage Results" MODIFIED="1784048348313" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson3_functionPro" />
-    <SUITE FILE_PATH="coverage/QA_35_53_Python$lambda.coverage" NAME="lambda Coverage Results" MODIFIED="1784050746055" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson3_functionPro" />
+    <SUITE FILE_PATH="coverage/QA_35_53_Python$tuple.coverage" NAME="tuple Coverage Results" MODIFIED="1783671547437" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson2_collections" />
     <SUITE FILE_PATH="coverage/QA_35_53_Python$collections.coverage" NAME="collections Coverage Results" MODIFIED="1783667822460" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson2_collections" />
-    <SUITE FILE_PATH="coverage/Python_35$Lesson_1.coverage" NAME="Lesson_1 Coverage Results" MODIFIED="1783063579466" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson1_remember" />
+    <SUITE FILE_PATH="coverage/QA_35_53_Python$pathlib.coverage" NAME="pathlib Coverage Results" MODIFIED="1784648356834" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson4_files" />
     <SUITE FILE_PATH="coverage/QA_35_53_Python$dict.coverage" NAME="dict Coverage Results" MODIFIED="1783673617211" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson2_collections" />
-    <SUITE FILE_PATH="coverage/QA_35_53_Python$kwargs.coverage" NAME="kwargs Coverage Results" MODIFIED="1784049097577" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson3_functionPro" />
+    <SUITE FILE_PATH="coverage/Python_35$Lesson_1.coverage" NAME="Lesson_1 Coverage Results" MODIFIED="1783063579466" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson1_remember" />
     <SUITE FILE_PATH="coverage/QA_35_53_Python$hw_2.coverage" NAME="hw_2 Coverage Results" MODIFIED="1784043802597" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson2_collections" />
     <SUITE FILE_PATH="coverage/QA_35_53_Python$map.coverage" NAME="map Coverage Results" MODIFIED="1784051441306" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson3_functionPro" />
     <SUITE FILE_PATH="coverage/Python_35$elif.coverage" NAME="elif Coverage Results" MODIFIED="1783068379740" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson1_remember" />
-    <SUITE FILE_PATH="coverage/QA_35_53_Python$unpacking.coverage" NAME="unpacking Coverage Results" MODIFIED="1784050051350" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson3_functionPro" />
+    <SUITE FILE_PATH="coverage/QA_35_53_Python$files.coverage" NAME="files Coverage Results" MODIFIED="1784272328900" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson4_files" />
     <SUITE FILE_PATH="coverage/QA_35_53_Python$filter.coverage" NAME="filter Coverage Results" MODIFIED="1784051751849" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson3_functionPro" />
-    <SUITE FILE_PATH="coverage/Python_35$loop.coverage" NAME="loop Coverage Results" MODIFIED="1783068628752" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson1_remember" />
+    <SUITE FILE_PATH="coverage/QA_35_53_Python$csv_files.coverage" NAME="csv_files Coverage Results" MODIFIED="1784276592203" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson4_files" />
+    <SUITE FILE_PATH="coverage/QA_35_53_Python$HW_5.coverage" NAME="HW_5 Coverage Results" MODIFIED="1784875547441" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson5_exceptions" />
     <SUITE FILE_PATH="coverage/QA_35_53_Python$hw3.coverage" NAME="hw3 Coverage Results" MODIFIED="1784110743921" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson3_functionPro" />
-    <SUITE FILE_PATH="coverage/Python_35$string_methods.coverage" NAME="string_methods Coverage Results" MODIFIED="1783065943397" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson1_remember" />
+    <SUITE FILE_PATH="coverage/QA_35_53_Python$json.coverage" NAME="json Coverage Results" MODIFIED="1784278347425" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson4_files" />
     <SUITE FILE_PATH="coverage/QA_35_53_Python$functionPRO.coverage" NAME="functionPRO Coverage Results" MODIFIED="1784046430134" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson3_functionPro" />
     <SUITE FILE_PATH="coverage/QA_35_53_Python$Lesson_1.coverage" NAME="Lesson_1 Coverage Results" MODIFIED="1783614377410" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson1_remember" />
+    <SUITE FILE_PATH="coverage/QA_35_53_Python$lambda.coverage" NAME="lambda Coverage Results" MODIFIED="1784050746055" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson3_functionPro" />
+    <SUITE FILE_PATH="coverage/QA_35_53_Python$kwargs.coverage" NAME="kwargs Coverage Results" MODIFIED="1784049097577" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson3_functionPro" />
+    <SUITE FILE_PATH="coverage/QA_35_53_Python$exceptions.coverage" NAME="exceptions Coverage Results" MODIFIED="1784650703126" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson5_exceptions" />
+    <SUITE FILE_PATH="coverage/QA_35_53_Python$file_read.coverage" NAME="file_read Coverage Results" MODIFIED="1784274908335" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson4_files" />
+    <SUITE FILE_PATH="coverage/QA_35_53_Python$unpacking.coverage" NAME="unpacking Coverage Results" MODIFIED="1784050051350" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson3_functionPro" />
+    <SUITE FILE_PATH="coverage/QA_35_53_Python$pathlib1.coverage" NAME="pathlib1 Coverage Results" MODIFIED="1784648861550" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson4_files" />
+    <SUITE FILE_PATH="coverage/Python_35$loop.coverage" NAME="loop Coverage Results" MODIFIED="1783068628752" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson1_remember" />
+    <SUITE FILE_PATH="coverage/Python_35$string_methods.coverage" NAME="string_methods Coverage Results" MODIFIED="1783065943397" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson1_remember" />
+    <SUITE FILE_PATH="coverage/QA_35_53_Python$hw4.coverage" NAME="hw4 Coverage Results" MODIFIED="1784649439231" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson4_files" />
   </component>
 </project>

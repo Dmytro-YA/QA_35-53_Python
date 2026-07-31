@@ -59,7 +59,18 @@ print(u1.country)
 print(u2.country)
 print(u3.country)
 
+class Counter:
+    def __init__(self, value = 0):
+        self.value = value
 
+    def increment(self):
+        self.value += 1
+        return self.value
+    def decrement(self):
+        self.value -= 1
+        return self.value
+    def show(self):
+        return self.value
 
 
 
